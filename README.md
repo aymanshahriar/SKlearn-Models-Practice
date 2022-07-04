@@ -1,2 +1,2 @@
-# SKlearn-Models-Practice
+# SKlearn-Models-Practice 🎓
 Created and utilized various machine learning models offered by Sklearn
